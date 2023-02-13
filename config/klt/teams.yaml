@@ -1,0 +1,7 @@
+repos:
+  - keptn/lifecycle-toolkit
+  - keptn-sandbox/wg-app-lifecycle
+
+approvers:
+
+maintainers:

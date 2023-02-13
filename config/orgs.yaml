@@ -1,8 +1,11 @@
+orgs:
+  - keptn
+  - keptn-sandbox
+  - keptn-contrib
 
 # org settings
 company: foo
 email: foo
-name: foo
 description: foo
 has_organization_projects: true
 has_repository_projects: true
@@ -15,3 +18,11 @@ members:
 - bob
 admins:
 - carl
+
+
+teams:
+  - maintainers:
+      members: []
+
+  - approvers:
+      members: []
